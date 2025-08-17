@@ -1,2 +1,2 @@
 # AStUnes
-A code to manage music playlists using linked lists. The user will be able to create, delete, edit or switch between playlists.
+Music playlist manager implemented with linked lists. Enables users to create, delete, edit, and switch between multiple playlists.
